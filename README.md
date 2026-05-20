@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">HEY THERE 👋</h1>
 
 ###
 
@@ -26,4 +26,11 @@
 ###
 
 <p align="left">I'm Yash from Jabalpur<br> <br>- 📚 I'm currently learning fullstack <br>-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+
 
